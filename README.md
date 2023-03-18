@@ -17,3 +17,5 @@ The project goal is to achieve an open-source AI-assisted mapping tool where AI 
 This repo consists of a CNN Model for segmentation purpose.
 
 The Projects documentation can be found in below link. "https://docs.google.com/document/d/1RhgASVqU2XXJ81YFampWwIeqkp0TURnk/edit?usp=sharing&ouid=105667024720340101643&rtpof=true&sd=true"
+
+Official Documentation: https://docs.google.com/document/d/1VL0Ngoo3ThEQIAl7IjxaUGcqX-6EDExJ/edit
